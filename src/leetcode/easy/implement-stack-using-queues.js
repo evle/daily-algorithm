@@ -1,0 +1,4 @@
+push
+pop
+top
+empty
